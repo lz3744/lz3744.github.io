@@ -10,5 +10,5 @@ My favorite food is chicken alfredo!
 
 [RIT SE Website](https://www.rit.edu/computing/department-software-engineering)
 
-..* I would like to learn more about SE as a whole
-..* I would also like to improve my teamwork and collaboration skills
+* I would like to learn more about SE as a whole
+* I would also like to improve my teamwork and collaboration skills
