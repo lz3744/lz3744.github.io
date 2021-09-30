@@ -1,9 +1,10 @@
 # Lucy Zhang's page
 
 ## About me
-Hello! My name is Lucy Zhang. I attended North Rose-Wolcott Highschool, a small school located in Wolcott, NY.
+Hello! My name is Lucy Zhang and I'm a first year SE major at RIT. I attended North Rose-Wolcott Highschool, a small school located in Wolcott, NY.
 I'm an introvert so I enjoy hobbies like building lego sets, playing videogames, painting, etc. Basically 
-activities that are relaxing and peaceful! 
+activities that are relaxing and peaceful! This also means that I have a very low social battery and will often get tired around
+people very easily, resulting in me having to take some time alone to recharge!
 
 My favorite food is chicken alfredo!
 ![alt text](https://www.jessicagavin.com/wp-content/uploads/2019/08/chicken-alfredo-8.jpg)
